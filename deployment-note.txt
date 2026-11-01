@@ -1,1 +1,3 @@
-Deployment platform: Netlify
+
+Frontend deployment: Netlify
+Backend deployment: Render
